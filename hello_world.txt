@@ -1,1 +1,2 @@
 hello, just testing git commands in WSL2
+Testing staging and commiting
